@@ -12,3 +12,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 vendor/
+vendor/composer/InstalledVersions.php
+vendor/composer/installed.php
+vendor/composer/autoload_static.php
+vendor/composer/autoload_psr4.php
+vendor/composer/autoload_files.php
